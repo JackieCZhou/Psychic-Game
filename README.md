@@ -19,3 +19,4 @@ The next steps of this project would be:
 Add more/Fine tune the styling.
 Add a real time updating leaderboad to track results. 
 Add more animation to the win and loss events.
+Add media queries for smoother screen size transition.
